@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ConnectHub — SignalR Test</title>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+            max-width: 800px;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+        #status {
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+
+        .connected {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .disconnected {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        #messages {
+            list-style: none;
+            padding: 0;
+        }
+
+            #messages li {
+                padding: 10px;
+                margin: 5px 0;
+                background: #e8f4f8;
+                border-left: 4px solid #2563EB;
+                border-radius: 3px;
+            }
+    </style>
+</head>
+<body>
+    <h2>🔔 ConnectHub SignalR Test</h2>
+
+    <label>JWT Token (User receiving notifications):</label>
+    <input id="token" placeholder="Paste access token here" />
+
+    <button onclick="connect()">🟢 Connect</button>
+    <button onclick="disconnect()">🔴 Disconnect</button>
+
+    <div id="status" class="disconnected">⚪ Not connected</div>
+
+    <h3>Received Notifications:</h3>
+    <ul id="messages"></ul>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script>
+        let connection = null;
+
+        async function connect() {
+            const token = document.getElementById('token').value.trim();
+
+            if (!token) {
+                alert('Please paste a JWT token first!');
+                return;
+            }
+
+            connection = new signalR.HubConnectionBuilder()
+                .withUrl("/hubs/notifications", {
+                    accessTokenFactory: () => token
+                })
+                .configureLogging(signalR.LogLevel.Debug)
+                .withAutomaticReconnect()
+                .build();
+
+            // Listen for notifications from server
+            connection.on("ReceiveNotification", (data) => {
+                const li = document.createElement('li');
+                li.textContent = `[${data.type}] ${data.message} — ${new Date().toLocaleTimeString()}`;
+                document.getElementById('messages').prepend(li);
+            });
+
+            connection.onclose(() => {
+                document.getElementById('status').textContent = '🔴 Disconnected';
+                document.getElementById('status').className = 'disconnected';
+            });
+
+            try {
+                await connection.start();
+                const status = document.getElementById('status');
+                status.textContent = `🟢 Connected! Connection ID: ${connection.connectionId}`;
+                status.className = 'connected';
+            } catch (err) {
+                const status = document.getElementById('status');
+                status.textContent = `🔴 Connection failed: ${err}`;
+                status.className = 'disconnected';
+                console.error('SignalR Error:', err);
+            }
+        }
+
+        async function disconnect() {
+            if (connection) {
+                await connection.stop();
+            }
+        }
+    </script>
+</body>
+</html>

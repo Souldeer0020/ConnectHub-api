@@ -1,0 +1,1291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cou\\ConnectHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\specifications\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\specifications\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\connecthub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\connecthub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\connecthub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\connecthub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\logs\\connecthub20260610.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\logs\\connecthub20260610.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\common\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\common\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\common\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\common\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\constants\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\constants\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\hubs\\notificationhubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\hubs\\notificationhubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\hubs\\inotificationhubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\hubs\\inotificationhubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\wwwroot\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\wwwroot\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\notifications\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\notifications\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|d:\\cou\\connecthub\\connecthub.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|solutionrelative:connecthub.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\notifications\\notificationscountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\notifications\\notificationscountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\notifications\\notificationsbyuserspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\notifications\\notificationsbyuserspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\notifications\\unreadnotificationsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\notifications\\unreadnotificationsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|d:\\cou\\connecthub\\connecthub.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|solutionrelative:connecthub.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\likes\\likeexistsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\likes\\likeexistsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|d:\\cou\\connecthub\\connecthub.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|solutionrelative:connecthub.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|d:\\cou\\connecthub\\connecthub.domain\\entities\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|solutionrelative:connecthub.domain\\entities\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\posts\\feedspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\posts\\feedspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\follows\\followingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\follows\\followingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|d:\\cou\\connecthub\\connecthub.domain\\entities\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|solutionrelative:connecthub.domain\\entities\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\follows\\followersspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\follows\\followersspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\ifeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\ifeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\posts\\feedcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\posts\\feedcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\follows\\followexistsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\follows\\followexistsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\ifollowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\ifollowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\follows\\followstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\follows\\followstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\follows\\followuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\follows\\followuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\users\\userbynamespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\users\\userbynamespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\posts\\postsbyuserspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\posts\\postsbyuserspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\posts\\postbyidspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\posts\\postbyidspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\specifications\\posts\\postswithpaginationspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\specifications\\posts\\postswithpaginationspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cou\\ConnectHub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\users\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\users\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\.nuget\\packages\\sixlabors.imagesharp\\4.0.0\\build\\SixLabors.ImageSharp.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|d:\\cou\\connecthub\\connecthub\\connecthub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{64DDD73B-AD8B-8D34-C0A3-1557E6B46C62}|ConnectHub\\ConnectHub.csproj|solutionrelative:connecthub\\connecthub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|d:\\cou\\connecthub\\connecthub.application\\dto\u0060s\\users\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85098D47-3A4A-B3A4-7F15-33182A4707F3}|ConnectHub.Application\\ConnectHub.Application.csproj|solutionrelative:connecthub.application\\dto\u0060s\\users\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\migrations\\20260514170438_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\migrations\\20260514170438_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514170138_Initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514165106_Initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\ConnectHub.Infrastructure\\Migrations\\20260514165018_Initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|d:\\cou\\connecthub\\connecthub.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093C5442-E778-07BC-DE61-BF8F4B74360A}|ConnectHub.Domain\\ConnectHub.Domain.csproj|solutionrelative:connecthub.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\migrations\\20260516150710_addingtwonewcolumnstousersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\migrations\\20260516150710_addingtwonewcolumnstousersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|d:\\cou\\connecthub\\connecthub.infrastructure\\migrations\\20260603082448_making createdat in post entity not nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1F92F3-6B72-F595-D391-B68B4C965116}|ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj|solutionrelative:connecthub.infrastructure\\migrations\\20260603082448_making createdat in post entity not nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ispecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Ispecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Ispecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Ispecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Ispecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:06:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:14:44.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:38:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Program.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Program.cs",
+              "RelativeToolTip": "ConnectHub\\Program.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAP0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:45:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ConnectHub\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:12:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\appsettings.json",
+              "RelativeDocumentMoniker": "ConnectHub\\appsettings.json",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\appsettings.json",
+              "RelativeToolTip": "ConnectHub\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-14T15:00:01.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:35:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Common\\ApiResponse.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:22:35.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\ErrorsController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\ErrorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:46:44.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConnectHub.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\ConnectHub.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-18T07:27:45.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:06:43.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectHub.csproj",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\ConnectHub.csproj",
+              "RelativeDocumentMoniker": "ConnectHub\\ConnectHub.csproj",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\ConnectHub.csproj",
+              "RelativeToolTip": "ConnectHub\\ConnectHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T12:54:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Common\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Common\\ApiExceptionResponse.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Common\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Common\\ApiExceptionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:22:19.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "connecthub20260610.txt",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\logs\\connecthub20260610.txt",
+              "RelativeDocumentMoniker": "ConnectHub\\logs\\connecthub20260610.txt",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\logs\\connecthub20260610.txt",
+              "RelativeToolTip": "ConnectHub\\logs\\connecthub20260610.txt",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-10T13:11:40.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Specifications\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Specifications\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Specifications\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Specifications\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:43:01.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:52:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Common\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Common\\ApiValidationErrorResponse.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Common\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Common\\ApiValidationErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:25:15.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:25:23.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:22:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T13:20:24.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FollowController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\FollowController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\FollowController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\FollowController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\FollowController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:22:58.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FeedController.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\FeedController.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Controllers\\FeedController.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Controllers\\FeedController.cs",
+              "RelativeToolTip": "ConnectHub\\Controllers\\FeedController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:30:42.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Constants\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Constants\\CacheKeys.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Constants\\CacheKeys.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Constants\\CacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:36:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\PostService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\PostService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\PostService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwI4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:14:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:21:47.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "ConnectHub\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T13:10:56.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\NotificationService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:30:58.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\CacheService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\CacheService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\CacheService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:37:54.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\ICacheService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:35:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConnectHub\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConnectHub\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAABhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T18:49:27.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotificationHubContext.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\Hubs\\NotificationHubContext.cs",
+              "RelativeDocumentMoniker": "ConnectHub\\Hubs\\NotificationHubContext.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\Hubs\\NotificationHubContext.cs",
+              "RelativeToolTip": "ConnectHub\\Hubs\\NotificationHubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T13:48:32.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "INotificationHubContext.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Hubs\\INotificationHubContext.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Hubs\\INotificationHubContext.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Hubs\\INotificationHubContext.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Hubs\\INotificationHubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T13:48:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Notifications\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Notifications\\NotificationDto.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Notifications\\NotificationDto.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Notifications\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:19:03.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\wwwroot\\htmlpage.html",
+              "RelativeDocumentMoniker": "ConnectHub\\wwwroot\\htmlpage.html",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\wwwroot\\htmlpage.html",
+              "RelativeToolTip": "ConnectHub\\wwwroot\\htmlpage.html",
+              "ViewState": "AgIAADYAAAAAAAAAACBjwDwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-08T19:13:46.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:21:50.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FollowService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\FollowService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\FollowService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\FollowService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\FollowService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:16:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ConnectHub.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:59:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T21:48:29.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NotificationsCountSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Notifications\\NotificationsCountSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Notifications\\NotificationsCountSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Notifications\\NotificationsCountSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Notifications\\NotificationsCountSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:27:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Settings\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Settings\\JWTSettings.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Settings\\JWTSettings.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Settings\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:56:42.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Domain\\Entities\\Notification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "ConnectHub.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:10:07.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NotificationsByUserSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Notifications\\NotificationsByUserSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Notifications\\NotificationsByUserSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Notifications\\NotificationsByUserSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Notifications\\NotificationsByUserSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:14:48.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnreadNotificationsSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Notifications\\UnreadNotificationsSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Notifications\\UnreadNotificationsSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Notifications\\UnreadNotificationsSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Notifications\\UnreadNotificationsSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:17:48.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:57:41.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IPostService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:31:28.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LikeExistsSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Likes\\LikeExistsSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Likes\\LikeExistsSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Likes\\LikeExistsSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Likes\\LikeExistsSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:37:02.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FeedSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\FeedSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Posts\\FeedSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\FeedSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Posts\\FeedSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T07:44:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T08:57:16.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FollowingSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Follows\\FollowingSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Follows\\FollowingSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Follows\\FollowingSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Follows\\FollowingSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T15:51:28.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20260603082448_Making CreatedAt in post entity not nullable.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260603082448_Making CreatedAt in post entity not nullable.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Migrations\\20260603082448_Making CreatedAt in post entity not nullable.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260603082448_Making CreatedAt in post entity not nullable.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Migrations\\20260603082448_Making CreatedAt in post entity not nullable.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:24:48.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FollowersSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Follows\\FollowersSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Follows\\FollowersSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Follows\\FollowersSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Follows\\FollowersSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:38:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IFeedService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IFeedService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IFeedService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IFeedService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IFeedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T07:52:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FeedCountSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\FeedCountSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Posts\\FeedCountSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\FeedCountSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Posts\\FeedCountSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T07:49:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Follow.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Domain\\Entities\\Follow.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Follow.cs",
+              "RelativeToolTip": "ConnectHub.Domain\\Entities\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:06:44.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Domain\\Entities\\Post.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "ConnectHub.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:22:16.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Like.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Like.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Domain\\Entities\\Like.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Like.cs",
+              "RelativeToolTip": "ConnectHub.Domain\\Entities\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:08:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IFollowService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IFollowService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IFollowService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IFollowService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IFollowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:08:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FollowExistsSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Follows\\FollowExistsSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Follows\\FollowExistsSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Follows\\FollowExistsSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Follows\\FollowExistsSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T15:54:01.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Services\\FileService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Services\\FileService.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:06:11.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FollowStatsDto.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Follows\\FollowStatsDto.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Follows\\FollowStatsDto.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Follows\\FollowStatsDto.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Follows\\FollowStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:02:57.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FollowUserDto.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Follows\\FollowUserDto.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Follows\\FollowUserDto.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Follows\\FollowUserDto.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Follows\\FollowUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:01:32.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:22:07.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserByNameSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Users\\UserByNameSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Users\\UserByNameSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Users\\UserByNameSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Users\\UserByNameSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:45:41.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PostsByUserSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\PostsByUserSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Posts\\PostsByUserSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\PostsByUserSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Posts\\PostsByUserSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T13:21:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PostByIdSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\PostByIdSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Posts\\PostByIdSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\PostByIdSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Posts\\PostByIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:58:56.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:36:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PostsWithPaginationSpecification.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\PostsWithPaginationSpecification.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Specifications\\Posts\\PostsWithPaginationSpecification.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Specifications\\Posts\\PostsWithPaginationSpecification.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Specifications\\Posts\\PostsWithPaginationSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T13:24:54.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\cou\\ConnectHub\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-19T15:28:42.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Interfaces\\IFileService.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:28:40.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ConnectHub.http",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub\\ConnectHub.http",
+              "RelativeDocumentMoniker": "ConnectHub\\ConnectHub.http",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub\\ConnectHub.http",
+              "RelativeToolTip": "ConnectHub\\ConnectHub.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-18T17:17:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Users\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Users\\UserProfileDto.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Users\\UserProfileDto.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Users\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:12:34.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\Settings\\FileSettings.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "ConnectHub.Application\\Settings\\FileSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:19:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SixLabors.ImageSharp.targets",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\.nuget\\packages\\sixlabors.imagesharp\\4.0.0\\build\\SixLabors.ImageSharp.targets",
+              "ToolTip": "C:\\Users\\Lenovo\\.nuget\\packages\\sixlabors.imagesharp\\4.0.0\\build\\SixLabors.ImageSharp.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-18T17:31:03.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Users\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Application\\DTO\u0060s\\Users\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Application\\DTO\u0060s\\Users\\UpdateProfileDto.cs",
+              "RelativeToolTip": "ConnectHub.Application\\DTO\u0060s\\Users\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:14:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20260516150710_AddingTwoNewColumnsToUsersEntity.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260516150710_AddingTwoNewColumnsToUsersEntity.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Migrations\\20260516150710_AddingTwoNewColumnsToUsersEntity.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260516150710_AddingTwoNewColumnsToUsersEntity.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Migrations\\20260516150710_AddingTwoNewColumnsToUsersEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:07:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20260514170438_Initial-create.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514170438_Initial-create.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Infrastructure\\Migrations\\20260514170438_Initial-create.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514170438_Initial-create.cs",
+              "RelativeToolTip": "ConnectHub.Infrastructure\\Migrations\\20260514170438_Initial-create.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:04:38.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260514170138_Initial-create.cs",
+              "DocumentMoniker": "C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514170138_Initial-create.cs",
+              "ToolTip": "C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514170138_Initial-create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:01:39.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ConnectHub.Domain\\Entities\\Comment.cs",
+              "ToolTip": "D:\\cou\\ConnectHub\\ConnectHub.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "ConnectHub.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:31:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20260514165018_Initial-create.cs",
+              "DocumentMoniker": "C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\ConnectHub.Infrastructure\\Migrations\\20260514165018_Initial-create.cs",
+              "ToolTip": "C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\ConnectHub.Infrastructure\\Migrations\\20260514165018_Initial-create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:50:18.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260514165106_Initial-create.cs",
+              "DocumentMoniker": "C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514165106_Initial-create.cs",
+              "ToolTip": "C:\\Users\\mido0\\source\\repos\\ConnectHub\\ConnectHub.Infrastructure\\Migrations\\20260514165106_Initial-create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:51:06.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "NT2OR5RDiu0=",
+  "success": true,
+  "projectFilePath": "D:\\cou\\ConnectHub\\ConnectHub.Application\\ConnectHub.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\cou\\ConnectHub\\ConnectHub.Application\\ConnectHub.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\cou\\ConnectHub\\ConnectHub.Application\\ConnectHub.Application.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

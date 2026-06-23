@@ -1,0 +1,2 @@
+wwwroot\htmlpage.html
+wwwroot\uploads\avatars\ca3b5301-d787-4495-b92b-1d683e1186ac.png

@@ -1,0 +1,28 @@
+2026-06-11 01:20:20.155 +03:00 [INF] User profile is available. Using 'C:\Users\mido0\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-06-11 01:20:20.513 +03:00 [INF] Now listening on: https://localhost:7145
+2026-06-11 01:20:20.516 +03:00 [INF] Now listening on: http://localhost:5190
+2026-06-11 01:20:20.587 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-11 01:20:20.589 +03:00 [INF] Hosting environment: Development
+2026-06-11 01:20:20.591 +03:00 [INF] Content root path: E:\cou\ConnectHub\ConnectHub
+2026-06-11 01:20:21.646 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2026-06-11 01:20:21.999 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 200 null text/html;charset=utf-8 357.3109ms
+2026-06-11 01:20:22.012 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-11 01:20:22.012 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_vs/browserLink - null null
+2026-06-11 01:20:22.044 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - 200 14925 application/javascript; charset=utf-8 32.0952ms
+2026-06-11 01:20:22.113 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_vs/browserLink - 200 null text/javascript; charset=UTF-8 100.8461ms
+2026-06-11 01:20:22.177 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - null null
+2026-06-11 01:20:22.238 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 61.8138ms
+2026-06-11 01:23:01.254 +03:00 [INF] User profile is available. Using 'C:\Users\mido0\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-06-11 01:23:01.447 +03:00 [INF] Now listening on: https://localhost:7145
+2026-06-11 01:23:01.448 +03:00 [INF] Now listening on: http://localhost:5190
+2026-06-11 01:23:01.484 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-11 01:23:01.485 +03:00 [INF] Hosting environment: Development
+2026-06-11 01:23:01.486 +03:00 [INF] Content root path: E:\cou\ConnectHub\ConnectHub
+2026-06-11 01:23:03.816 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2026-06-11 01:23:04.101 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 200 null text/html;charset=utf-8 293.2978ms
+2026-06-11 01:23:04.113 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-11 01:23:04.113 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_vs/browserLink - null null
+2026-06-11 01:23:04.128 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - 200 14925 application/javascript; charset=utf-8 14.1405ms
+2026-06-11 01:23:04.179 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.5478ms
+2026-06-11 01:23:04.223 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - null null
+2026-06-11 01:23:04.269 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.8027ms
